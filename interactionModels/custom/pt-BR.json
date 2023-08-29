@@ -1,0 +1,392 @@
+{
+  "interactionModel": {
+    "languageModel": {
+      "invocationName": "luca conceito",
+      "intents": [
+        {
+          "name": "AtivoIntent",
+          "slots": [],
+          "samples": [
+            "Ativo",
+            "O que é ativo",
+            "Qual conceito de ativo",
+            "Fale sobre ativo",
+            "Defina ativo"
+          ]
+        },
+        {
+          "name": "PassivoIntent",
+          "slots": [],
+          "samples": [
+            "Passivo",
+            "O que é passivo",
+            "Qual conceito de passivo",
+            "Fale sobre passivo",
+            "Defina passivo"
+          ]
+        },
+        {
+          "name": "ValorContabilIntent",
+          "slots": [],
+          "samples": [
+            "Valor Contábil",
+            "O que é valor contábil",
+            "Fale sobre valor contábil",
+            "Defina valor contábil"
+          ]
+        },
+        {
+          "name": "RecursoEconomicolIntent",
+          "slots": [],
+          "samples": [
+            "Recurso econômico",
+            "Fale sobre recurso econômico",
+            "Recursos econômicos",
+            "Fale sobre recursos econômicos",
+            "O que são recursos econômicos",
+            "O que é recurso econômico"
+          ]
+        },
+        {
+          "name": "PatrimonioLiquidolIntent",
+          "slots": [],
+          "samples": [
+            "Patrimônio Líquido",
+            "O que é Patrimônio Líquido ",
+            "Qual conceito de Patrimônio Líquido ",
+            "Fale sobre Patrimônio Líquido ",
+            "Defina Patrimônio Líquido "
+          ]
+        },
+        {
+          "name": "ReceitalIntent",
+          "slots": [],
+          "samples": [
+            "Receita",
+            "O que é receita",
+            "Qual conceito de receita",
+            "Fale sobre receita",
+            "Defina receita"
+          ]
+        },
+        {
+          "name": "DespesalIntent",
+          "slots": [],
+          "samples": [
+            "Despesa",
+            "O que é despesa",
+            "Qual conceito de despesa",
+            "Fale sobre despesa",
+            "Defina despesa"
+          ]
+        },
+        {
+          "name": "ValorRealizavelLiquidoIntent",
+          "slots": [],
+          "samples": [
+            "Valor realizável líquido",
+            "O que é valor realizável líquido",
+            "Defina valor realizável líquido",
+            "Fale sobe valor realizável líquido"
+          ]
+        },
+        {
+          "name": "EstoqueIntent",
+          "slots": [],
+          "samples": [
+            " Estoque",
+            "Estoques",
+            "O que é Estoque",
+            "Defina Estoque",
+            "Fale sobre Estoque",
+            "Fale sobre Estoques"
+          ]
+        },
+        {
+          "name": "ValorJustoIntent",
+          "slots": [],
+          "samples": [
+            "Valor justo",
+            "O que é valor justo",
+            "Defina valor justo",
+            "Fale sobe valor justo"
+          ]
+        },
+        {
+          "name": "CustoIntent",
+          "slots": [],
+          "samples": [
+            "Custo",
+            "Custos",
+            "O que são custos",
+            "Defina custos",
+            "Defina custo",
+            "Fale sobe custos"
+          ]
+        },
+        {
+          "name": "DepreciacaoIntent",
+          "slots": [],
+          "samples": [
+            "Depreciação",
+            "O que é depreciação",
+            "Defina depreciação",
+            "Fale sobe depreciação"
+          ]
+        },
+        {
+          "name": "DinheiroIntent",
+          "slots": [],
+          "samples": [
+            "dinheiro",
+            "o que é dinheiro",
+            "defina dinheiro",
+            "fale sobre dinheiro"
+          ]
+        },
+        {
+          "name": "CaixaIntent",
+          "slots": [],
+          "samples": [
+            "caixa",
+            "o que é caixa",
+            "defina caixa",
+            "fale sobre caixa"
+          ]
+        },
+        {
+          "name": "EquivalentesDeCaixaIntent",
+          "slots": [],
+          "samples": [
+            "equivalentes de caixa",
+            "o que são equivalentes de caixa",
+            "defina equivalentes de caixa",
+            "fale sobre equivalentes de caixa",
+            "equivalente de caixa"
+          ]
+        },
+        {
+          "name": "FluxoDeCaixaIntent",
+          "slots": [],
+          "samples": [
+            "fluxo de caixa",
+            "o que é fluxo de caixa",
+            "defina fluxo de caixa",
+            "fale sobre fluxo de caixa"
+          ]
+        },
+        {
+          "name": "AtividadesOperacionaisIntent",
+          "slots": [],
+          "samples": [
+            "atividades operacionais",
+            "o que são atividades operacionais",
+            "defina atividades operacionais",
+            "fale sobre atividades operacionais"
+          ]
+        },
+        {
+          "name": "AtividadesDeInvestimentoIntent",
+          "slots": [],
+          "samples": [
+            "atividades de investimento",
+            "o que são atividades de investimento",
+            "defina atividades de investimento",
+            "fale sobre atividades de investimento"
+          ]
+        },
+        {
+          "name": "AtividadesDeFinanciamentoIntent",
+          "slots": [],
+          "samples": [
+            "atividades de financiamento",
+            "o que são atividades de financiamento",
+            "defina atividades de financiamento",
+            "fale sobre atividades de financiamento"
+          ]
+        },
+        {
+          "name": "ArrendamentoIntent",
+          "slots": [],
+          "samples": [
+            " Arrendamento",
+            "o que é Arrendamento",
+            "defina Arrendamento",
+            "fale sobre Arrendamento"
+          ]
+        },
+        {
+          "name": "SubarrendamentoIntent",
+          "slots": [],
+          "samples": [
+            " Subarrendamento",
+            "o que é Subarrendamento",
+            "defina Subarrendamento",
+            "fale sobre Subarrendamento "
+          ]
+        },
+        {
+          "name": "VidaUtilIntent",
+          "slots": [],
+          "samples": [
+            "vida útil",
+            "o que é vida útil",
+            "defina vida útil",
+            "fale sobre vida útil"
+          ]
+        },
+        {
+          "name": "AmortizacaoIntent",
+          "slots": [],
+          "samples": [
+            "amortização",
+            "exaustão",
+            "fale sobre exaustão",
+            "defina exaustão",
+            "o que é exaustão",
+            "fale sobre amortização",
+            "defina amortização",
+            "o que é amortização",
+            "fale sobre Depreciação"
+          ]
+        },
+        {
+          "name": "ValorAdicionadoIntent",
+          "slots": [],
+          "samples": [
+            "Valor adicionado",
+            "o que é Valor adicionado",
+            "fale sobre Valor adicionado",
+            "defina Valor adicionado "
+          ]
+        },
+        {
+          "name": "OutrasReceitasIntent",
+          "slots": [],
+          "samples": [
+            "Outras receitas",
+            "o que é Outras receitas",
+            "fale sobre Outras receitas",
+            "defina outras receitas"
+          ]
+        },
+        {
+          "name": "AtivoBiologicoIntent",
+          "slots": [],
+          "samples": [
+            "Ativo biológico",
+            "o que é Ativo biológico",
+            "fale sobre Ativo biológico",
+            "defina Ativo biológico"
+          ]
+        },
+        {
+          "name": "AtividadeAgricolaIntent",
+          "slots": [],
+          "samples": [
+            "Atividade agrícola",
+            "o que é Atividade agrícola",
+            "fale sobre Atividade agrícola",
+            "defina Atividade agrícola"
+          ]
+        },
+        {
+          "name": "ProducaoAgricolaIntent",
+          "slots": [],
+          "samples": [
+            "produção agrícola",
+            "o que é produção agrícola",
+            "fale sobre produção agrícola",
+            "defina produção agrícola"
+          ]
+        },
+        {
+          "name": "ResultadoContabilIntent",
+          "slots": [],
+          "samples": [
+            "resultado contábil",
+            "o que é resultado contábil",
+            "fale sobre resultado contábil",
+            "defina resultado contábil"
+          ]
+        },
+        {
+          "name": "ResultadoTributavelIntent",
+          "slots": [],
+          "samples": [
+            "resultado tributável",
+            "o que é resultado tributável",
+            "fale sobre resultado tributável",
+            "defina resultado tributável"
+          ]
+        },
+        {
+          "name": "BenenficiosaEmpregadosIntent",
+          "slots": [],
+          "samples": [
+            "benefícios a empregados",
+            "o que são benefícios a empregados",
+            "o que é benefício a empregado",
+            "fale sobre benefícios a empregados",
+            "defina benefícios a empregados"
+          ]
+        },
+        {
+          "name": "AtivoFinanceiroIntent",
+          "slots": [],
+          "samples": [
+            "Ativo financeiro",
+            "o que é Ativo financeiro",
+            "fale sobre Ativo financeiro",
+            "defina Ativo financeiro"
+          ]
+        },
+        {
+          "name": "PassivoFinanceiroIntent",
+          "slots": [],
+          "samples": [
+            "Passivo financeiro",
+            "o que é Passivo financeiro",
+            "fale sobre Passivo financeiro",
+            "defina Passivo financeiro"
+          ]
+        },
+        {
+          "name": "AMAZON.CancelIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.HelpIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.StopIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.NavigateHomeIntent",
+          "samples": []
+        },
+        {
+          "name": "HelloWorldIntent",
+          "slots": [],
+          "samples": [
+            "olá",
+            "como vai você",
+            "diga oi mundo",
+            "diga oi",
+            "oi",
+            "diga olá mundo",
+            "diga olá"
+          ]
+        },
+        {
+          "name": "AMAZON.FallbackIntent",
+          "samples": []
+        }
+      ],
+      "types": []
+    }
+  },
+  "version": "18"
+}

@@ -1,0 +1,41 @@
+{
+  "manifest": {
+    "apis": {
+      "custom": {
+        "endpoint": {
+          "uri": "arn:aws:lambda:us-east-1:354230934824:function:36e91dcd-d5bf-4077-b853-7692c6a57f3a:Release_0"
+        },
+        "interfaces": [],
+        "regions": {
+          "NA": {
+            "endpoint": {
+              "uri": "arn:aws:lambda:us-east-1:354230934824:function:36e91dcd-d5bf-4077-b853-7692c6a57f3a:Release_0"
+            }
+          },
+          "EU": {
+            "endpoint": {
+              "uri": "arn:aws:lambda:eu-west-1:354230934824:function:36e91dcd-d5bf-4077-b853-7692c6a57f3a:Release_0"
+            }
+          },
+          "FE": {
+            "endpoint": {
+              "uri": "arn:aws:lambda:us-west-2:354230934824:function:36e91dcd-d5bf-4077-b853-7692c6a57f3a:Release_0"
+            }
+          }
+        }
+      }
+    },
+    "manifestVersion": "1.0",
+    "publishingInformation": {
+      "category": "KNOWLEDGE_AND_TRIVIA",
+      "distributionCountries": [],
+      "isAvailableWorldwide": true,
+      "locales": {
+        "pt-BR": {
+          "name": "LUKKA CONCEITOS"
+        }
+      },
+      "testingInstructions": "Sample Testing Instructions."
+    }
+  }
+}
