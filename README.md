@@ -20,5 +20,7 @@ Pré-requisitos: possuir Python instalado em sua maquina, e uma conta no https:/
 
 Igor Parro Arcas 
 
-https://www.linkedin.com/in/igor-parro-arcas/
+Linkedin: https://www.linkedin.com/in/igor-parro-arcas/
+<BR/>
+portifólio: https://igorparrodev.wixsite.com/my-site-1
 
